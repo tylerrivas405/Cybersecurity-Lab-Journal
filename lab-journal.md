@@ -11,8 +11,7 @@ A log of Information Technology & Cybersecurity labs completed by Tyler Rivas, d
 **Date Completed:**  
 **Objectives:**  
 **Summary of Activities:**  
-**Skills/Tools Used:**  
-**Artifacts/Screenshots:**  
+**Skills/Tools Used:**   
 **Reflection:**  
 
 ---
