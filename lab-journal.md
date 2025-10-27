@@ -15,12 +15,3 @@ A log of Information Technology & Cybersecurity labs completed by Tyler Rivas, d
 **Reflection:**  
 
 ---
-
-## Entries
-
-### [    ]-[  ]-[  ] 
-**Platform:**   
-**Objectives:**   
-**Summary:**   
-**Skills/Tools Used:**   
-**Reflection:**   
