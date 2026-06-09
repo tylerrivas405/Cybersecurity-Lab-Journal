@@ -46,6 +46,10 @@ This journal is designed to:
 
 ---
 
+## 🛠️ My Active Portfolios & Labs
+* 📓 **[Cybersecurity Lab Journal](https://github.com/tylerrivas405/Cybersecurity-Lab-Journal)** - My hands-on documentation for IT support simulations, TryHackMe labs, and web vulnerability analysis.
+* 📚 **[Learning PDF Library](https://github.com/tylerrivas405/Learning-PDF-Library)** - A curated collection of my technical reference materials and study guides.
+
 ## 📌 Notes
 
 - This repo is focused on **learning and documentation**, not certification badges.
