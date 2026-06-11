@@ -1,0 +1,23 @@
+Lab Entry Template
+Lab Title:
+SOC Fundamentals
+
+Platform/Provider:
+TryHackMe
+
+Date Completed:
+6/11/26
+
+Objectives:
+Learn about the SOC team and their processes. 
+
+Summary of Activities:
+Went through the course material, got to run a basic SOC workflow.
+
+Skills/Tools Used:
+Generic THM made SIEM.
+
+Reflection:
+This SOC Fundamentals course helped me better understand how analysts investigate alerts, review logs, and separate normal activity from suspicious behavior. 
+It showed me that effective SOC work requires both technical awareness and careful documentation, not just reacting quickly to alerts. 
+Overall, the course strengthened my confidence in thinking like a defensive analyst and gave me a better foundation for future blue team work.
