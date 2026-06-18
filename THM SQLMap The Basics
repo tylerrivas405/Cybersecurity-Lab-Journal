@@ -1,0 +1,22 @@
+Lab Entry Template
+Lab Title:
+SQLMap: The Basics
+
+Platform/Provider:
+TryHackMe
+
+Date Completed:
+6/18/26
+
+Objectives:
+Learn about SQL injection and exploit this vulnerability through the SQLMap tool.
+
+Summary of Activities:
+Review the SQL injection basics, identify a vulnerable parameter, use SQLMap to enumerate databases and tables, dump the relevant data, and use the results to solve the practical questions.
+
+Skills/Tools Used:
+Linux Virtual Machine, SQLMap
+
+Reflection:
+Completing the SQLMap room showed the importance of a clear, methodical approach to web security testing. It reinforced how SQL injection can be identified, validated, and leveraged with automation to expose real risk.
+It also highlighted that tools are only effective when you understand the vulnerability behind them. Overall, the exercise strengthened my confidence with SQL injection concepts, tool workflow, and the disciplined mindset needed for penetration testing.
