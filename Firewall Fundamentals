@@ -1,0 +1,25 @@
+Lab Title:
+Firewall Fundamentals
+
+Platform/Provider:
+TryHackMe
+
+Date Completed:
+6/19/26
+
+Objectives:
+-The types of firewalls
+-The firewall rules and its components
+-Hands-on Windows built-in firewall 
+-Hands-on Linux built-in firewall 
+
+Summary of Activities:
+In simple terms, the course teaches how firewalls control traffic, how rules are written, and how to apply those rules in real systems. It is designed to give both theory and practical lab experience.
+
+Skills/Tools Used:
+Linux, Windows, Windows Defender
+
+Reflection:
+Today’s lab helped me better understand how firewalls control network traffic and why they are so important for security. 
+I learned the difference between allowing, denying, and forwarding traffic, and how firewall rules use things like source, destination, port, protocol, and direction to make decisions. 
+This lab gave me a clearer foundation for real-world network defense and showed me how these concepts apply in both Windows and Linux environments.
