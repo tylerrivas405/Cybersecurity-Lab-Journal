@@ -1,0 +1,28 @@
+Lab Title:
+IDS Fundamentals
+
+Platform/Provider:
+TryHackMe
+
+Date Completed:
+6/19/26
+
+Objectives:
+-Types of IDS and their detection capabilities
+-Working of Snort IDS
+-Default and custom rules in Snort IDS
+-Making a custom rule in Snort IDS
+
+Summary of Activities:
+-Learned what an Intrusion Detection System (IDS) is and why it’s needed after firewalls.
+-Studied IDS types and their detection capabilities (signature-based and anomaly-based).
+-Learned how Snort, the popular open-source IDS, works.
+
+Skills/Tools Used:
+Linux, Snort
+
+Reflection:
+The IDS Fundamentals room taught me how intrusion detection systems work alongside firewalls: 
+firewalls block traffic, while IDS monitors and alerts without blocking. 
+I learned Snort's basics, reviewed default rules, and wrote custom Snort rules from scratch. 
+This reinforced that IDS is about detection and notification, not prevention—critical for layered security and SOC work.
