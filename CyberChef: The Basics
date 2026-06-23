@@ -1,7 +1,26 @@
 Lab Title:
+CyberChef: The Basics
+
 Platform/Provider:
+TryHackMe
+
 Date Completed:
+6/23/26
+
 Objectives:
+Understand the purpose of CyberChef as a browser-based data transformation tool used for encoding, decoding, and basic analysis.
+Practice using core CyberChef operations to convert data between common formats such as Base64, hexadecimal, and URL encoding.
+Learn how to chain multiple operations into a recipe to process and reveal hidden or obfuscated data.
+
 Summary of Activities:
+Opened CyberChef and reviewed the interface, including the input pane, output pane, operations list, and recipe area.
+Tested several basic transformations to observe how different encodings change the structure and readability of data.
+Applied common decoding steps to recover plaintext from encoded samples.
+
 Skills/Tools Used:
+Browser, CyberChef web tool
+
 Reflection:
+This lab strengthened my understanding of CyberChef as a practical tool for data decoding, format conversion, and early-stage analysis. 
+Working through the basics reinforced the importance of a structured, methodical approach when investigating unknown or obfuscated data. 
+I also gained experience in reading results critically, chaining operations logically, and validating output instead of relying on assumptions.
