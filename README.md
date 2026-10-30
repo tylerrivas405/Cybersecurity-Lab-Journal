@@ -1,66 +1,31 @@
 # Cybersecurity & IT Lab Journal
 
-A public log of hands-on labs completed by Tyler Rivas, documenting practical experience across cybersecurity, IT support, AI tools, and cloud platforms. This journal includes exercises from Microsoft Learn, Hack The Box, Parrot OS, and other platforms — focused on skill reinforcement, not just certifications.
+A collection of documented technical learning exercises and security labs by Tyler Rivas. These are training activities, not client service tickets or evidence of professional enterprise deployments.
 
----
+## Start here — existing entries
 
-## 📁 Structure
+| Focus | Lab entries |
+| --- | --- |
+| Security operations | [SOC Fundamentals](THM%20SOC%20Fundamentals%20Lab), [Firewall Fundamentals](Firewall%20Fundamentals), [IDS Fundamentals](IDS%20Fundamentals) |
+| Security tools | [CyberChef: The Basics](CyberChef%3A%20The%20Basics), [CAPA: The Basics](CAPA%3A%20The%20Basics) |
+| Vulnerability research | [Outlook Moniker Link (CVE-2024-21413)](Moniker%20Link%20%28CVE-2024-21413%29%20%E2%80%93%20Remote%20Code%20Execution%20in%20Microsoft%20Outlook), [SQLMap Basics](THM%20SQLMap%20The%20Basics), [Hydra Room](TryHackMe%20Hydra%20Room.md) |
+| Other notes | [Microsoft Security Copilot](CYBERSECURITY_LAB_JOURNAL_DescribeMicrosoftSecurityCopilot.md), [Lab journal notes](lab-journal.md) |
 
-Each lab entry follows a consistent format:
+## Documentation standard
 
-- **Lab Title**
-- **Platform/Provider**
-- **Date Completed**
-- **Objectives**
-- **Summary of Activities**
-- **Skills/Tools Used**
-- **Reflection**
+New lab entries should use the [lab report template](templates/lab-report-template.md). Each report should cover:
+1. Scope and environment, including whether the work was simulated.
+2. Problem statement or objective.
+3. Tools and commands used.
+4. Procedure and redacted evidence.
+5. Findings, verification, limitations, and lessons learned.
 
----
+Avoid posting room flags, challenge answers, passwords, tokens, personal data, or unauthorized target details. Respect platform sharing rules.
 
-## 🧪 Lab Categories
+## Current focus
 
-### 🔐 Cybersecurity Labs
-- Threat detection, incident response, log analysis
-- Microsoft Defender XDR, Sentinel, and SC-200 modules
-- Hack The Box CJCA and blue team exercises
+Adding IT support, Windows, Linux, and networking labs to complement existing cybersecurity exercises. Planned work is not represented as completed.
 
-### 🖥️ IT Support & Infrastructure Labs
-- A+ prep: hardware, OS, disk partitioning, troubleshooting
-- Parrot OS workflows and scripting
-- Linux command translation and automation
-
-### 🤖 AI & Cloud Labs
-- AI prompting and security fundamentals
-- Azure AI services and cloud administration
-
----
-
-## 🧠 Purpose
-
-This journal is designed to:
-- Reinforce technical skills through documentation
-- Showcase real-world lab experience to employers
-- Track progress across multiple learning platforms
-- Build a portfolio of practical cybersecurity and IT knowledge
-
----
-
-## 🛠️ My Active Portfolios & Labs
-* 📓 **[Cybersecurity Lab Journal](https://github.com/tylerrivas405/Cybersecurity-Lab-Journal)** - My hands-on documentation for IT support simulations, TryHackMe labs, and web vulnerability analysis.
-* 📚 **[Learning PDF Library](https://github.com/tylerrivas405/Learning-PDF-Library)** - A curated collection of my technical reference materials and study guides.
-
-## 📌 Notes
-
-- This repo is focused on **learning and documentation**, not certification badges.
-- Screenshots and external artifacts are omitted unless essential.
-- Labs are updated regularly as new modules and exercises are completed.
-
----
-
-## 🔗 Connect
-- GitHub: https://github.com/tylerrivas405
-- Linkedin: https://www.linkedin.com/in/tyler-rivas-947304213/
-- Email: tylerrivas.405@gmail.com
-
-Feel free to explore the entries and reach out with feedback or collaboration ideas.
+## Related links
+- [GitHub profile](https://github.com/tylerrivas405)
+- [LinkedIn](https://www.linkedin.com/in/tyler-rivas-947304213/)
